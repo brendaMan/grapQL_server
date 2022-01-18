@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "Mika",
+      "phone": "254-97524",
+      "street": "Front street",
+      "city": "Madrid",
+      "id": "c2181edf-041b-0a61-3651-79d671fa3db7"
+    },
+    {
+      "name": "Cart",
+      "phone": "964-97524",
+      "street": "Back street",
+      "city": "Hamburg",
+      "id": "c2971edf-041b-0a61-3651-79d671fa3db7"
+    },
+    {
+      "name": "Dean",
+      "phone": "238-97524",
+      "street": "Loewe street",
+      "city": "Tokyo",
+      "id": "c2181etr-041b-0a61-3651-79d671fa3db7"
+    }
+  ]
+}
